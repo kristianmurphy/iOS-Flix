@@ -8,7 +8,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/5YXwNUA.gif" width=250><br>
+<img src="https://i.imgur.com/5YXwNUA.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
