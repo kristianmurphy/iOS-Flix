@@ -9,6 +9,7 @@
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/5YXwNUA.gif" width=250><br>
+![walkthrough](https://github.com/kristianmurphy/iOS-Flix/blob/main/walkthrough-stage2.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
