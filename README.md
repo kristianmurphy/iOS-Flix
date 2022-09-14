@@ -9,7 +9,7 @@
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/5YXwNUA.gif" width=250><br>
-![walkthrough](https://github.com/kristianmurphy/iOS-Flix/blob/main/walkthrough-stage2.gif)
+![walkthrough2](https://github.com/kristianmurphy/iOS-Flix/blob/main/walkthrough-stage2.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -34,7 +34,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/dd7nJ5y.gif" width=250><br>
+![walkthrough1](https://github.com/kristianmurphy/iOS-Flix/blob/main/walkthrough-stage1.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
